@@ -26,6 +26,12 @@ This will run the recommendation system and write the predictions to `submission
 
 The system includes performance timing, outputting the time taken to find the top 10 users and movies as well as the total running time of the algorithm.
 
+The average time for it to find Top 10 Users/Movies after creating the necessary data structures is 1.3 milliseconds for 35200 users and 7331 films.
+
+The average time for the algorithm to make 5,000 predictions, given ~1.1 million training data, is 125 seconds.
+
+Performance measurements have been made with 8GB/256GB M1 Macbook Air.
+
 ## Dependencies
 
 - C++ Standard Library
@@ -33,6 +39,8 @@ The system includes performance timing, outputting the time taken to find the to
 - `<fstream>` for file input/output
 - `<vector>` and `<pair>` for data structure management
 - `<iostream>` for console input/output
+- `createAllList.h` for creating the necessary data structures
+- `ratePredictor.h` for making predictions with processed data
 
 ## Future Enhancements
 
