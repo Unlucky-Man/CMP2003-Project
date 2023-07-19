@@ -1,0 +1,3 @@
+/Users/sercaneser/Desktop/cmp2003repositoryclean/cmake-build-debug/CMakeFiles/CMP2003Project_Final.dir
+/Users/sercaneser/Desktop/cmp2003repositoryclean/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sercaneser/Desktop/cmp2003repositoryclean/cmake-build-debug/CMakeFiles/rebuild_cache.dir
