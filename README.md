@@ -42,8 +42,6 @@ Performance measurements have been made with 8GB/256GB M1 Macbook Air.
 - `createAllList.h` for creating the necessary data structures
 - `ratePredictor.h` for making predictions with processed data
 
-## Future Enhancements
-
-Future enhancements can include improving the efficiency of the algorithm, implementing other recommendation techniques, and adding a more sophisticated evaluation system.
+## Detailed Description
 
 Please refer to the code comments in `main.cpp` for a more detailed explanation of the system's workings.
