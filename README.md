@@ -5,9 +5,9 @@ This project is a movie recommendation system that uses Collaborative Filtering 
 
 ## Overview
 
-The recommendation algorithm operates on user-item rating data, represented as pairs of `<user, item>` and their associated ratings. The system can identify the top users and movies by their watch count.
+The recommendation algorithm operates on user-item rating data, represented as pairs in vectors. The system can identify the top users and movies by their watch count.
 
-The recommendation system uses two files: `train.csv` and `test.csv`. The `train.csv` file is used for training the model, while the `test.csv` file is used to evaluate its performance. The final predictions are written to `submission.csv`.
+The recommendation system uses two files: `train.csv` and `test.csv`. The `train.csv` file is used for creating the necessary data structures, while the `test.csv` file is used to evaluate its performance. The final predictions are written to `submission.csv`.
 
 ## How to Run
 
