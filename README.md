@@ -44,4 +44,4 @@ Performance measurements have been made with 8GB/256GB M1 Macbook Air.
 
 ## Detailed Description
 
-Please refer to the code comments in `main.cpp` for a more detailed explanation of the system's workings.
+Please refer to `Project Description` pdf file for a more detailed explanation of the system's workings.
